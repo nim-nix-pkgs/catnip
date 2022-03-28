@@ -11,7 +11,6 @@
   inputs.src-catnip-main.ref   = "refs/heads/main";
   inputs.src-catnip-main.owner = "RSDuck";
   inputs.src-catnip-main.repo  = "catnip";
-  inputs.src-catnip-main.dir   = "";
   inputs.src-catnip-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
