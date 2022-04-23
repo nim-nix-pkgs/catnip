@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-catnip-main": "src-catnip-main"
+        "src-catnip-0_3_0": "src-catnip-0_3_0"
       }
     },
-    "src-catnip-main": {
+    "src-catnip-0_3_0": {
       "flake": false,
       "locked": {
         "lastModified": 1649088719,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "RSDuck",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.3.0",
         "repo": "catnip",
         "type": "github"
       }
